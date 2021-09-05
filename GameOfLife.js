@@ -2,7 +2,7 @@ let runningStatus = false;
 let drawStatus = true;
 let grid, columns, rows;
 let h, w;
-let buttonStartX = 0, fps = 14, nodeSize = 7, density = 14;
+let buttonStartX = 0, fps = 14, nodeSize = 12, density = 14;
 let currentRow = 0, currentColumn = 0;
 
 
